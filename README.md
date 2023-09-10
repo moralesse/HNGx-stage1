@@ -1,2 +1,1 @@
-# HNGx-stage1
-Stage 1 task
+A repository for stage1 task of the HNGx internship.
